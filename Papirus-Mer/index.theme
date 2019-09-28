@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Papirus-Dark
-Comment=Papirus icon theme for dark themes
+Name=Papirus-Mer
+Comment=Papirus icon theme mercode edition
 Inherits=breeze-dark,gnome,hicolor
 
 Example=folder
