@@ -1,9 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <rect style="opacity:0.2" width="50" height="32" x="7" y="24" rx="2.5" ry="2.5"/>
- <path style="fill:#4877b1" d="M 7,44.5 C 7,45.885 8.115,47 9.5,47 H 54.5 C 55.885,47 57,45.885 57,44.5 V 17.5 C 57,16.115 55.885,15 54.5,15 H 29 V 12.5 C 29,11.115 27.885,10 26.5,10 H 9.5 C 8.115,10 7,11.115 7,12.5"/>
- <rect style="opacity:0.2" width="50" height="32" x="7" y="22" rx="2.5" ry="2.5"/>
- <rect style="fill:#e4e4e4" width="44" height="20" x="10" y="18" rx="2.5" ry="2.5"/>
- <rect style="fill:#5294e2" width="50" height="32" x="7" y="23" rx="2.5" ry="2.5"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 9.5,10 C 8.115,10 7,11.115 7,12.5 V 13.5 C 7,12.115 8.115,11 9.5,11 H 26.5 C 27.885,11 29,12.115 29,13.5 V 12.5 C 29,11.115 27.885,10 26.5,10 Z M 29,15 V 16 H 54.5 C 55.89,16 57,17.115 57,18.5 V 17.5 C 57,16.115 55.89,15 54.5,15 Z"/>
- <path style="fill:#1d344f" d="M 34.398,31 C 31.993,31 29.794,32.353 28.703,34.496 28.226,34.301 27.714,34.2 27.199,34.199 25.198,34.199 23.509,35.681 23.242,37.664 21.305,38.33 20.002,40.151 20,42.199 20,44.85 22.15,47 24.801,47 H 39.199 C 41.85,47 44,44.85 44,42.199 43.998,40.162 42.712,38.349 40.789,37.676 40.795,37.584 40.798,37.49 40.801,37.398 40.801,33.864 37.933,31 34.398,31 Z M 34.398,35 C 35.768,35 36.792,36.023 36.797,37.39 36.797,37.392 36.797,37.401 36.797,37.402 A 4.0004,4.0004 0 0 0 39.465,41.449 C 39.799,41.566 39.999,41.848 40.001,42.199 40.001,42.688 39.689,43 39.2,43 H 24.802 C 24.314,43 24.003,42.69 24.001,42.203 V 42.199 C 24.002,41.845 24.204,41.565 24.54,41.449 A 4.0004,4.0004 0 0 0 27.204,38.203 4.0004,4.0004 0 0 0 32.27,36.312 C 32.683,35.5 33.494,35 34.398,35 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1"
+   id="svg16"
+   sodipodi:docname="folder-blue-meocloud.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="11.886358"
+     inkscape:cx="12.658624"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <rect
+     style="opacity:0.2"
+     width="25"
+     height="16"
+     x="3"
+     y="12"
+     rx="1.25"
+     ry="1.25"
+     id="rect2" />
+  <path
+     style="fill:#ff6600"
+     d="M 3,21.75 C 3,22.442 3.5575,23 4.25,23 H 26.75 C 27.442,23 28,22.442 28,21.75 V 8.25 C 28,7.5575 27.442,7 26.75,7 H 14 V 6.25 C 14,5.5575 13.443,5 12.75,5 H 4.25 C 3.5575,5 3,5.5575 3,6.25"
+     id="path4" />
+  <rect
+     style="opacity:0.2"
+     width="25"
+     height="16"
+     x="3"
+     y="10"
+     rx="1.25"
+     ry="1.25"
+     id="rect6" />
+  <rect
+     style="fill:#e4e4e4"
+     width="21"
+     height="10"
+     x="5"
+     y="9"
+     rx="1.25"
+     ry="1.25"
+     id="rect8" />
+  <rect
+     style="fill:#ff6600"
+     width="25"
+     height="16"
+     x="3"
+     y="11"
+     rx="1.25"
+     ry="1.25"
+     id="rect10" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 4.25 5 C 3.5575 5 3 5.5575 3 6.25 L 3 7.25 C 3 6.5575 3.5575 6 4.25 6 L 12.75 6 C 13.443 6 14 6.5575 14 7.25 L 14 8 L 26.75 8 C 27.442 8 28 8.5575 28 9.25 L 28 8.25 C 28 7.5575 27.442 7 26.75 7 L 14 7 L 14 6.25 C 14 5.5575 13.443 5 12.75 5 L 4.25 5 z"
+     id="path12" />
+  <path
+     style="fill:#000000"
+     d="M 16.2,15 C 14.998,15 13.897,15.676 13.352,16.748 13.113,16.651 12.857,16.6 12.6,16.6 11.599,16.6 10.755,17.341 10.621,18.332 9.653,18.665 9.001,19.576 9,20.6 9,21.925 10.075,23 11.4,23 H 18.6 C 19.925,23 21,21.925 21,20.6 20.999,19.581 20.356,18.675 19.395,18.338 19.398,18.292 19.399,18.245 19.4,18.199 19.4,16.432 17.967,15 16.2,15 Z M 16.199,17 C 16.884,17 17.396,17.511 17.398,18.195 V 18.201 C 17.337,19.099 17.883,19.927 18.732,20.225 18.899,20.283 18.999,20.424 19,20.6 19,20.844 18.844,21 18.6,21 H 11.4 C 11.156,21 11.001,20.845 11,20.602 V 20.6 C 11.001,20.422 11.102,20.282 11.27,20.225 11.985,19.979 12.5,19.351 12.602,18.602 13.564,18.992 14.664,18.581 15.135,17.656 15.341,17.25 15.747,17 16.199,17 Z"
+     id="path14" />
 </svg>
