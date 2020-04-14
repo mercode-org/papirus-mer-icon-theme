@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="media-repeat-none.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="12.483724"
+     inkscape:cx="10.598175"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+  </defs>
+  <path
+     style="opacity:0.3;fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 9,6 V 8 H 6.9316406 C 5.8618406,8 5,8.939119 5,10.105469 v 5.789062 C 5,17.060831 5.8618906,18 6.9316406,18 H 17.068359 C 18.138159,18 19,17.060881 19,15.894531 V 13 h -2 v 2.894531 c 0,0.0791 -0.004,0.0966 -0.002,0.105469 H 7.0039062 C 7.0049064,15.991 7,15.973701 7,15.894531 V 10.105469 C 7,10.026269 7.0049062,10.00887 7.0039062,10 H 9 v 2 l 4,-3 z"
+     id="path5" />
+  <path
+     style="fill:#ff6600"
+     class="ColorScheme-Highlight"
+     d="M 15,6 V 7.4140625 L 16.585938,9 15,10.585938 V 12 h 1.414062 L 18,10.414063 19.585938,12 H 21 V 10.585938 L 19.414062,9 21,7.4140625 V 6 H 19.585938 L 18,7.5859375 16.414062,6 Z"
+     id="path7" />
+</svg>
