@@ -17,6 +17,10 @@ Papirus Icon Theme Mercode Edition
 
 `./install.sh`
 
+> If the executable doesn't work, make sure to give the necessary permissions with chmod.
+
+`chmod 755 install.sh`
+
 4. Done!
 
 Enjoy!
