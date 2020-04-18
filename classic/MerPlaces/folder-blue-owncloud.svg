@@ -57,7 +57,7 @@
      ry="1.25"
      id="rect2" />
   <path
-     style="fill:#ff6600"
+     style="fill:#ff4d0d"
      d="M 3,21.75 C 3,22.442 3.5575,23 4.25,23 H 26.75 C 27.442,23 28,22.442 28,21.75 V 8.25 C 28,7.5575 27.442,7 26.75,7 H 14 V 6.25 C 14,5.5575 13.443,5 12.75,5 H 4.25 C 3.5575,5 3,5.5575 3,6.25"
      id="path4" />
   <rect
@@ -79,7 +79,7 @@
      ry="1.25"
      id="rect8" />
   <rect
-     style="fill:#ff6600"
+     style="fill:#ff4d0d"
      width="25"
      height="16"
      x="3"
@@ -94,57 +94,57 @@
   <g
      transform="translate(0.14828233,0.14766832)"
      id="g32-3"
-     style="fill:#000000">
+     style="fill:#842609">
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="17.5"
        cy="18"
        r="2.25"
        id="circle14-6" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="22"
        cy="22"
        r="1.25"
        id="circle16-7" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="19.25"
        cy="20.75"
        r="2.5"
        id="circle18-5" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="10"
        cy="21"
        r="2.25"
        id="circle20-3" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="12.25"
        cy="16.25"
        r="1.5"
        id="circle22-5" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="12.5"
        cy="19"
        r="2.75"
        id="circle24-6" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="12.25"
        cy="22"
        r="1.25"
        id="circle26-2" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="14.75"
        cy="16.75"
        r="2.5"
        id="circle28-9" />
     <circle
-       style="fill:#000000;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#842609;stroke:#eb6637;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
        cx="15.5"
        cy="20"
        r="3.25"
