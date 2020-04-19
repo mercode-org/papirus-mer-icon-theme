@@ -28,12 +28,12 @@ cat <<- EOF
 EOF
 
 : "${DESTDIR:=/usr/share/icons}"
+: "${ICON_THEMES:=papirus-mer-classic papirus-mer-dark papirus-mer-light}"
 : "${TAG:=master}"
-: "${THEMES:=Papirus-Mer}"
 : "${uninstall:=false}"
 
 _msg() {
-    echo "=>" "$@" >&2
+    echo "=>" "$@"
 }
 
 _rm() {
@@ -53,12 +53,14 @@ _sudo() {
 _download() {
     _msg "Getting the latest version from GitHub ..."
     wget -O "$temp_file" \
-        "https://github.com/mercode-org/$gh_repo/archive/$TAG.tar.gz"
+        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$TAG.tar.gz"
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }
 
 _uninstall() {
+    eval set -- "$@"  # split args by space
+
     for theme in "$@"; do
         test -d "$DESTDIR/$theme" || continue
         _msg "Deleting '$theme' ..."
@@ -68,6 +70,8 @@ _uninstall() {
 
 _install() {
     _sudo mkdir -p "$DESTDIR"
+
+    eval set -- "$@"  # split args by space
 
     for theme in "$@"; do
         test -d "$temp_dir/$gh_repo-$TAG/$theme" || continue
@@ -81,7 +85,7 @@ _install() {
     done
 
     # Try to restore the color of folders from a config
-    if which papirus-folders > /dev/null 2>&1; then
+    if command -v papirus-folders >/dev/null; then
         papirus-folders -R || true
     fi
 }
@@ -100,8 +104,8 @@ temp_dir="$(mktemp -d)"
 
 if [ "$uninstall" = "false" ]; then
     _download
-    _uninstall $THEMES
-    _install $THEMES
+    _uninstall "$ICON_THEMES"
+    _install "$ICON_THEMES"
 else
-    _uninstall $THEMES
+    _uninstall "$ICON_THEMES"
 fi
